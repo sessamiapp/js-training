@@ -1,6 +1,6 @@
 # Free JavaScript Training & Internship at [Sessami.co](https://sessami.co/) 🚀
 
-### [Assignment Details](Task1.md) | [Application Form](https://forms.gle/BnRXE1AcoJVR1x897)
+### [Assignment Details](Task1.md) | [Application Form](https://forms.gle/BnRXE1AcoJVR1x897) | [Interview Prep](InterviewPrep.md)
 
 ## 🎓 **Calling All College Students & Recent Graduates!**
 
